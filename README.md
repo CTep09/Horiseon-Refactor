@@ -16,6 +16,17 @@ In index.html document began making site more accessible by adding &lt;alt&gt;te
 />
 ```
 
+#### CSS Code Refactor
+```
+Problem
+
+```
+
+```
+ Solution
+ ```
+
+
 ## Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
