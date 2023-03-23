@@ -86,7 +86,7 @@ p {
     background-color: #2589bd;
 }
 
-/* consolidated */
+/* Consolidated multiple code blocks into one code block, achieving the same results */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -102,7 +102,7 @@ p {
     color: #ffffff;
 } */
 
-/* Consolidated  */
+/* Consolidated multiple code blocks into one code block, achieving the same results */
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -118,7 +118,7 @@ p {
     text-align: center;
 } */
 
-/* consolidated */
+/* Consolidated multiple code blocks into one code block, achieving the same results */
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
@@ -164,7 +164,7 @@ p {
     background-color: #0072bb;
     color: #ffffff; */
 
-
+/* Consolidated multiple code blocks into one code block, achieving the same results */
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
@@ -192,14 +192,14 @@ p {
     margin-bottom: 20px;
     font-size: 36px;} */
 
-
-.footer {
+/* Updated to connect to footer in html document */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
