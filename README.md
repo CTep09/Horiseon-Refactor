@@ -6,32 +6,15 @@ The purpose of the Horiseon code refactor is to ensure that the agency's website
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+### Code Refactor 
 
-What things you need to install the software and how to install them.
-
+In index.html document began making site more accessible by adding &lt;alt&gt;text to all images on website to follow accessibility standards.  
+``` html
+<img src="./assets/images/online-reputation-management.jpg" 
+    class="float-right" 
+    alt="Laptop with word Reputation on screen" 
+/>
 ```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development environment running.
-
-Say what the step will be:
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
 
 ## Built With
 
