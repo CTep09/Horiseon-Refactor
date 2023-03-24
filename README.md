@@ -2,10 +2,6 @@
 
 The purpose of the Horiseon code refactor is to ensure that the agency's website follows accessibility standards. This is necessary to ensure that site is optimized for search engines. 
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Code Refactor 
 
 In index.html document began making site more accessible by adding &lt;alt&gt;text to all images on website to follow accessibility standards.  
