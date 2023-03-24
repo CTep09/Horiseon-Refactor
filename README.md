@@ -38,6 +38,9 @@ Several opportunities within the CSS code to consolidate multiple code blocks in
 }
  ```
 
+## Horiseon Website
+![Horiseon Website](./assets/images/horiseon-live-site.gif)
+ 
 ## GitHub Repository
 * [See Repository Here](https://github.com/CTep09/Horiseon-Refactor)
 
@@ -52,9 +55,9 @@ Several opportunities within the CSS code to consolidate multiple code blocks in
 * [See Live Site](https://ctep09.github.io/Horiseon-Refactor/)
 
 
-## Authors
+## Author
 
-* **Cassandra Tepper** 
+**Cassandra Tepper** 
 
 - [Link to Github](https://github.com/CTep09)
 - [Link to LinkedIn](https://www.linkedin.com/in/cassie-tepper/)
